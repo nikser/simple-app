@@ -1,0 +1,110 @@
+.sectionFixed {
+    min-width: 1200px;
+}
+
+.sectionFixedWrapper {
+    width: 1200px;
+}
+
+@media (max-width: 1200px) {
+    .sectionFixedWrapper {
+        width: 1200px;
+    }
+}
+
+#cccadbbaddccfeedfefaadbccceddbfbef {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+}
+
+#eddcfdafebccfbbfcfebcdbcaecfecbcbdcebaaddebcedaeffe {
+    margin: 0px auto;
+    z-index: 3;
+    height: 150px;
+}
+
+#cdefbecebebcdedfdaadcaeabdeaabbbebabcaadbd {
+    font-family: Arial;
+    z-index: 23;
+    overflow-wrap: break-word;
+    box-sizing: content-box;
+    position: absolute;
+    top: 38.5px;
+    left: 115px;
+    width: 708px;
+    height: 73px;
+}
+
+#eaabaacdeaafedadfdcfadbeaacbbeebcccceef {
+    overflow: hidden;
+    font-size: 56px;
+    display: block;
+    width: 708px;
+    text-align: center;
+    position: relative;
+    height: 73px;
+}
+
+#eccefadafdbfafdffbeafffddbeebdffebbaebaf {
+    z-index: 25;
+    position: absolute;
+    top: 4.5px;
+    left: 7px;
+    width: 118px;
+    height: 118px;
+}
+
+#cdbaabeffdcecdaafbbcfeaabcddefaddedaffccddce {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+#bbbfbcbdccacfdedacbcdfccddaedcabca {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    background-image: url("../img/66941555857501.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#aadabbbeffbddecadebcdafafbdaceddfcadeedebb {
+    margin: 0px auto;
+    z-index: 3;
+    height: 900px;
+}
+
+#cededfdebcdfdaeecbedbfadfdbfaedf {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+}
+
+#adecbefdbdffefffbddffcfaeeacdafbeabfcfd {
+    margin: 0px auto;
+    z-index: 3;
+    height: 900px;
+}
+
+#beeaecbfaddcfecbeefcaafbffeadfcabbefaaedbfeb {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+}
+
+#cabedaccacbeacfdacffdafdddcdbbfdcbaceabbdbd {
+    margin: 0px auto;
+    z-index: 3;
+    height: 900px;
+}
+
+#techContainer {
+    height: 700px;
+}
+
+#masterContainer {
+    height: 700px;
+}
